@@ -1,5 +1,6 @@
 # Python-Turtle-Library
-Hello guys, in this repository you gonna see some of the beautiful projects that we can make with the help of turtle library.<br>
+Hello guys, this repository contains some Python codes using Turtle, which you can run to watch your Turtle draw beautiful patterns for you! <br>
+***
 Go through this link to understand better.<br>
 
 INDIA FLAG>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><br>
