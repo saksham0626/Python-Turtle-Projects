@@ -1,6 +1,8 @@
 # Python-Turtle-Library
-Hello guys, this repository contains some Python codes using Turtle, which you can run to watch your Turtle draw beautiful patterns for you! <br>
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fandrey1978%2Fandrey19781803%2Fandrey1978180300009%2F98120000-vector-illustration-of-a-cute-turtle-baby-child-smiling-on-a-white-background-coloring.jpg&imgrefurl=https%3A%2F%2Fwww.123rf.com%2Fphoto_98120000_stock-vector-vector-illustration-of-a-cute-turtle-baby-child-smiling-on-a-white-background-coloring.html&tbnid=JkncJpKsWHIxsM&vet=12ahUKEwipp8uF4cPwAhUep0sFHSo0CjMQMygPegUIARDrAQ..i&docid=Z4F52uuR6y4f5M&w=1300&h=910&q=turtle%20image&hl=en-GB&ved=2ahUKEwipp8uF4cPwAhUep0sFHSo0CjMQMygPegUIARDrAQ)
+* Hello guys, this repository contains some Python codes using Turtle, which you can run to watch your Turtle draw beautiful patterns for you! <br>
+** Turtle is a Python library which used to create graphics, pictures, and games. It was developed by Wally Feurzeig, Seymour Parpet and Cynthina Slolomon in 1967. It was a part of the original Logo programming language.
+![](https://lh3.googleusercontent.com/a-/AOh14GhMBzpI4OmFkx0jIkKNeGudjxA9ifbtLyE-uqie1Ms=s600-k-no-rp-mo)
+
 ***
 Go through this link to understand better.<br>
 
@@ -15,5 +17,17 @@ Go through this link to understand better.<br>
 
 ***
 [Youtube >> Moon Night](https://youtu.be/5N_Qd4E-vO8)<br>
+
+***
+[Youtube >> WHY LEARN PYTHON](https://www.youtube.com/watch?v=w1s-ZKkbeFQ&t=9s) <br>
+
+***
+[Youtube >> CLOCK](https://www.youtube.com/watch?v=IQjsxHwVerE) <br>
+
+***
+[Youtube >> DRAW A NAME](https://www.youtube.com/watch?v=YLWobeEFaVc) <br>
+
+***
+[Youtube >> NETFLIX LOGO](https://www.youtube.com/watch?v=8njUIyugK3E) <br>
 
 ***
