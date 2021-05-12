@@ -1,6 +1,6 @@
 # Python-Turtle-Library
 Hello guys, this repository contains some Python codes using Turtle, which you can run to watch your Turtle draw beautiful patterns for you! <br>
-![click](https://images.app.goo.gl/UYY2wx9h9jXGPNja8)
+![click](https://www.freepik.com/premium-vector/cute-turtle-cartoon_6461752.htm)
 ***
 Go through this link to understand better.<br>
 
