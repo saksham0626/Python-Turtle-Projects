@@ -23,7 +23,7 @@ Go through this link to understand better.<br>
 [Youtube >> WHY LEARN PYTHON](https://www.youtube.com/watch?v=w1s-ZKkbeFQ&t=9s) <br>
 
 ***
-[![Go and search on youtube "Saksham Aggarwal"](https://i.ytimg.com/vi/IQjsxHwVerE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq6KRJnf_iPdJXIICQNlKmbLIzAw)](https://www.youtube.com/watch?v=IQjsxHwVerE "CLOCK")
+[CLOCK ![Go and search on youtube "Saksham Aggarwal"](https://i.ytimg.com/vi/IQjsxHwVerE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq6KRJnf_iPdJXIICQNlKmbLIzAw)](https://www.youtube.com/watch?v=IQjsxHwVerE){:target="_blank" rel="noopener"}
 
 
 ***
