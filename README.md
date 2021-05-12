@@ -1,6 +1,6 @@
 # Python-Turtle-Library
 * Hello guys, this repository contains some Python codes using Turtle, which you can run to watch your Turtle draw beautiful patterns for you! <br>
-** Turtle is a Python library which used to create graphics, pictures, and games. It was developed by Wally Feurzeig, Seymour Parpet and Cynthina Slolomon in 1967. It was a part of the original Logo programming language. **
+**Turtle is a Python library which used to create graphics, pictures, and games. It was developed by Wally Feurzeig, Seymour Parpet and Cynthina Slolomon in 1967. It was a part of the original Logo programming language.**
 
 ![SAKSHAM AGGARWAL](https://lh3.googleusercontent.com/a-/AOh14GhMBzpI4OmFkx0jIkKNeGudjxA9ifbtLyE-uqie1Ms=s200-k-no-rp-mo)
 
@@ -24,6 +24,7 @@ Go through this link to understand better.<br>
 
 ***
 [Youtube >> CLOCK](https://www.youtube.com/watch?v=IQjsxHwVerE) <br>
+![](https://i.ytimg.com/vi/IQjsxHwVerE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq6KRJnf_iPdJXIICQNlKmbLIzAw)
 
 ***
 [Youtube >> DRAW A NAME](https://www.youtube.com/watch?v=YLWobeEFaVc) <br>
