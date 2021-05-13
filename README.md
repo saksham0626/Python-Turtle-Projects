@@ -6,7 +6,7 @@
 
 ***
 
-## Go through this link to understand better.
+## Go through these links to understand better.
 ### Click on a image to watch a video !!!<br>
 
 ***
