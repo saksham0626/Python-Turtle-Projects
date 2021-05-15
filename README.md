@@ -22,7 +22,7 @@
 [Moon Night ![Go and search on youtube "Saksham Aggarwal"](https://i.ytimg.com/vi/5N_Qd4E-vO8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKZLDUcQ8YM2sHiKFISwJHv4sZfA)](https://youtu.be/5N_Qd4E-vO8)
 
 ***
-[WHY LEARN PYTHON ![Go and search on youtube "Saksham Aggarwal"](https://i.ytimg.com/an_webp/w1s-ZKkbeFQ/mqdefault_6s.webp?du=3000&sqp=CIy884QG&rs=AOn4CLDorhnxxBgltcXUqcFNWcH-dEMG3Q)](https://www.youtube.com/watch?v=w1s-ZKkbeFQ&t=9s)
+[WHY LEARN PYTHON ![Go and search on youtube "Saksham Aggarwal"](https://i.ytimg.com/an_webp/w1s-ZKkbeFQ/mqdefault_6s.webp?du=3000&sqp=CNi7gIUG&rs=AOn4CLC1hd6PKMgZ-oJIlQDW34X-VmCVMw)](https://www.youtube.com/watch?v=w1s-ZKkbeFQ&t=9s)
 
 ***
 [CLOCK ![Go and search on youtube "Saksham Aggarwal"](https://i.ytimg.com/vi/IQjsxHwVerE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq6KRJnf_iPdJXIICQNlKmbLIzAw)](https://www.youtube.com/watch?v=IQjsxHwVerE)
